@@ -9,7 +9,11 @@ nav {
 	display:flex;
 	height:100px;
 	justify-content:space-around;
-/*	padding:50px 10%;*/
+	/*	padding:50px 10%;*/
+}
+
+h3 {
+	margin:0px;
 }
 
 .profile-pic{
@@ -50,28 +54,115 @@ nav ul{
 }
 
 /*.gallery img:not(:last-child) + img{
-	margin-left:20px;
+margin-left:20px;
 }*/
 
-.gallery img{
-/*	margin-left:20px;*/
-	margin-bottom:20px;
+	.gallery img{
+		/*	margin-left:20px;*/
+		margin-bottom:20px;
+	}
+
+
+	.person-photo{
+		width:50vmin;
+		height:auto;
+		border-radius:2vmin;
+		flex:1;
+		object-fit:cover;
+		object-position:25% 25%;
+		border-color:red;
+		border-width:2px;
+		border-style:solid;
+
+	}
+
+	.margin-bottom5{
+		margin-bottom:5px;
+	}
+
+	/* carousel */
+	#carousel img{
+		object-fit:cover;
+	}
+
+	#carousel {
+		margin: 0px auto;
+		position: relative;
+		width:60vw;
+		min-height:31.1170212766vw;
+		background-image:radial-gradient(gray,white);
+		display:flex;
+		padding: 6.3829787234vw;
+		text-align: center;
+		border-radius: 0.95744680851vw;
+		overflow: hidden;
+		/*     gap: 50px; */
+	}
+
+	#carousel-buttons {
+		position:absolute;
+		bottom:0.95744680851vw;
+		left:40%;
+		display: flex;
+		gap:0.95744680851vw;
+	}
+
+	#carousel-button1, #carousel-button2, #carousel-button3 {
+		min-width:3.1914893617vw;
+		min-height:0.51063829787vw;
+		/* background: black; */
+		transition: background 0.7s;
+		border-radius:0.31914893617vw;
+		border-color:transparent;
+		cursor:pointer;
+	}
+
+	.text-white {
+		--tw-text-opacity: 1;
+		color: rgb(255 255 255/var(--tw-text-opacity));
+		background: rgb(255 255 255);
+	}
+
+	.carousel-black {
+		background: red;
+	}
+
+	#carousel-image1 {
+		/* height: 70vh; */
+		/* height: fit-content;
+		width: fit-content; */
+	position:absolute;
+	border-radius: 1.59574468085vw;
+	width:80%;
+	height:80%;
+	top:10%;
+	/* box-shadow: 0px 0px 5px 5px rgb(190,190,190); */
+	transition: transform 0.5s;
+	/* margin: 0px auto; */
 }
 
 
-.person-photo{
-	width:50vmin;
-	height:auto;
-	border-radius:2vmin;
-	flex:1;
-	object-fit:cover;
-	object-position:25% 25%;
-	border-color:red;
-	border-width:2px;
-	border-style:solid;
-
+#carousel-image3 {
+	position:absolute;
+	border-radius: 1.59574468085vw;
+	width:80%;
+	height:80%;
+	top:10%;
+	left: 145vw;
+	/* box-shadow: 0px 0px 5px 5px rgb(190,190,190); */
+	transition:transform 0.5s;
 }
 
-.margin-bottom5{
-	margin-bottom:5px;
-}
+
+#carousel-image2 {
+	position:absolute;
+	border-radius: 1.59574468085vw;
+	width:80%;
+	height:80%;
+	top:10%;
+	left:80vw;
+	/* box-shadow: 0px 0px 5px 5px rgb(190,190,190); */
+	transition:transform 0.5s;
+/*	display:none;*/
+};
+
