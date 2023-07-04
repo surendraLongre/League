@@ -1,13 +1,13 @@
 <h1>On 03rd of May, 2023:</h1>
-<p class='margin-bottom10'>We celebrated the bithday of one and only legend: Gargee Kashyap.</p>
+<p class='margin-bottom5'>We celebrated the bithday of one and only legend: Gargee Kashyap.</p>
 <div class='gallery' id='gargee'>
 </div>
 
-<h1>on 09th of May, 2023:</h1>
+<h1>On 09th of May, 2023:</h1>
 Ohh, [disoriented] Why it is like this I am not able to recognize the person I wanted to memorize so hard. [closes eyes]
 
-<h1>on 13th of May, 2023:</h1>
-We celebrated the birthday of our legend, Supra. He is such a person who do not even want to disclose himself. We went to the Civil Engineering Department on the 3rd floor we took a bunch of photos. I was so happy there. We went there for bird watching, in other sense, just parrrot watching.
+<h1>On 13th of May, 2023:</h1>
+<p class='margin-bottom5'>We celebrated the birthday of our legend, Supra. He is such a person who do not even want to disclose himself. We went to the Civil Engineering Department on the 3rd floor we took a bunch of photos. I was so happy there. We went there for bird watching, in other sense, just parrrot watching.
 
 In there, I even captured a photo of Ajnabi, in that he was trying to achieve a great grand skill, which was to catch a pebble once he throws in the air.
 
@@ -17,9 +17,12 @@ Are you a bird?
 Becasue I came to WATCH you.
 
 no one got it at all.Maybe, it sounded too childish, but then, We went to cafe 92. surprisingly there were not many people there. 
+</p>
+<div class='gallery' id='supra'>
+</div>
 
 <h1>On 16th of June, 2023:</h1>
-Me for the first time went to the Sunoj sir's home in there I didn't mean to go as a scavanger but then I really find a beautiful mirror. It was so amazing that I was not able to get through it. Enough about my character, now the event.
+<p class='margin-bottom5'>Me for the first time went to the Sunoj sir's home in there I didn't mean to go as a scavanger but then I really find a beautiful mirror. It was so amazing that I was not able to get through it. Enough about my character, now the event.
 So, We were Ajnabi, Ankit, Priyanka, Malvika(an intern student joined two days ago), Manojit, Supra, Gargee, Nupur, and me. 
 The first moment of entry was very tricky, Tricky for me. They rang the bell and got hidden behind the ball and pushed me in front of door. But then, these people obviously are not good at tricks, cuz they are the ones being tricked.
 But now, that we entered, thanks to me, then, as usual people are suppose to not know me. The whole night was set at a time of 7:30PM to 01:00AM.
@@ -35,4 +38,7 @@ But as usual you also know, we let other people win or we end it in a tie, not t
 
 I really loved the moments there. In whole year, that was the moment when I was surrounded with so many happy faces.
 Finally we said bye to professor, and alumni Shayan.
-<img id='supra'></img>
+</p>
+<div class='gallery' id='shayan'>
+</div>
+
