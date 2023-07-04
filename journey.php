@@ -14,6 +14,12 @@
 		include 'navbar.php';
 	?>
 	<!-- start your code here -->
+	<p class='text'></p>
+	<div class='margin5' style="white-space:pre-line;">
+		<?php
+			include 'life.html';
+		?>
+	</div>
 </body>
 	<script src='javascript.js'></script>
 </html>
