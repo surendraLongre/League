@@ -74,6 +74,7 @@ function get_photos(name){
 get_photos('gargee');
 get_photos('supra');
 get_photos('shayan');
+get_photos('bihar');
 
 
 // carousel starts here
