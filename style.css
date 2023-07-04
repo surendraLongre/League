@@ -28,6 +28,7 @@ nav li {
 	color:white;
 	border-radius:5px;
 	margin:0px 5px;
+	white-space:nowrap;
 
 }
 
@@ -45,21 +46,24 @@ nav ul{
 .gallery{
 	display:flex;
 	flex-wrap:wrap;
+	grid-gap:20px;
 }
 
-.gallery img+img{
+/*.gallery img:not(:last-child) + img{
 	margin-left:20px;
-}
+}*/
 
 .gallery img{
+/*	margin-left:20px;*/
 	margin-bottom:20px;
 }
 
 
 .person-photo{
 	width:50vmin;
-	height:50vmin;
-	border-radius:5%;
+	height:auto;
+	border-radius:2vmin;
+	flex:1;
 	object-fit:cover;
 	object-position:25% 25%;
 	border-color:red;
@@ -68,6 +72,6 @@ nav ul{
 
 }
 
-.margin-bottom10{
+.margin-bottom5{
 	margin-bottom:5px;
 }
