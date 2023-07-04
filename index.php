@@ -14,6 +14,13 @@
 		include 'navbar.php';
 	?>
 	<!-- start your code here -->
+	<p></p>
+	<div class='margin5' style="white-space:pre-line;">
+		<?php
+			include 'home.html';
+		?>
+	</div>
+
 </body>
 	<script src='javascript.js'></script>
 </html>
