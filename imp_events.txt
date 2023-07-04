@@ -1,13 +1,10 @@
-<h1>on 03rd of May, 2023:</h1>
+<h1>On 03rd of May, 2023:</h1>
+<p class='margin-bottom10'>We celebrated the bithday of one and only legend: Gargee Kashyap.</p>
 <div class='gallery' id='gargee'>
-	<img class='person-photo' src='images/whatsapp_dp.jpg' alt='gargee-image'>
-	<img class='person-photo' src='https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg'>
 </div>
-We celebrated the bithday of one and only legend: Gargee Kashyap.
-<img id='gargee'></img>
 
 <h1>on 09th of May, 2023:</h1>
-Ohh, [disorientted] Why it is like this I even forgot the person I gathered for the word for whom. [closes eyes]
+Ohh, [disorientted] Why it is like this I am not able to recognize the person I wanted to memorize so hard. [closes eyes]
 
 <h1>on 13th of May, 2023:</h1>
 We celebrated the birthday of our legend, Supra. He is such a person who do not even want to disclose himself. We went to the Civil Engineering Department on the 3rd floor we took a bunch of photos. I was so happy there. We went there for bird watching, in other sense, just parrrot watching.
