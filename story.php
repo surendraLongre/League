@@ -16,7 +16,7 @@
 	<p class='text'></p>
 	<div class='margin5' style="white-space:pre-line;">
 		<?php
-			include 'imp_events.txt';
+			include 'imp_events.html';
 		?>
 	</div>
 	<!-- start your code here -->
