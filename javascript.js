@@ -64,7 +64,7 @@ function get_photos(name){
 		type:'post',
 		data:data_to_post,
 		success: function(data){
-			$('#gargee').append(data);
+			$(`#${name}`).append(data);
 		},
 		error: function(){
 		console.log("something went wrong")},
