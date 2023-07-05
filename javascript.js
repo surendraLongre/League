@@ -150,7 +150,7 @@ var interval = setInterval(() => {
 		slide_num=0;
 	}
 	slide_num+=1;
-}, 2000);
+}, 1500);
 
 // button stats ----------
 // button clicks and changes
